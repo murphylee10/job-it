@@ -2,7 +2,7 @@
 
 This tool helps prospective developers find jobs suitable for their skillset :)
 
-This was a fun challenge to make, I was able to learn React Native along the way.
+This was a fun challenge to make, and a bonus was that I was able to learn React Native along the way.
 
 ## Usage
 1. Download Expo Go on mobile

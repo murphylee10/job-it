@@ -1,6 +1,7 @@
 # Job Search Tool (React Native + JSearch)
 
 This tool helps prospective developers find jobs suitable for their skillset :)
+
 This was a fun challenge to make, I was able to learn React Native along the way.
 
 ## Usage
